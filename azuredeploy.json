@@ -32,7 +32,7 @@
     },
     "searchServiceSku": {
       "type": "string",
-      "defaultValue": "basic",
+      "defaultValue": "standard",
       "allowedValues": [
         "free",
         "basic",
@@ -46,7 +46,7 @@
     },
     "searchServiceAndCognitiveServicesLocation": {
       "type": "string",
-      "defaultValue": "West US 2",
+      "defaultValue": "West Europe",
       "allowedValues": [
         "South Africa North",
         "East Asia",
